@@ -16,7 +16,7 @@
 ---
 
 ### 🛠 Стек технологий
-![Java](https://shields.io) ![Selenide](https://shields.io) ![JUnit 5](https://shields.io) ![Maven](https://shields.io)
+![Java] ![Selenide] ![JUnit 5] ![Maven]
 
 ---
 
