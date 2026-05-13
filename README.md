@@ -16,7 +16,7 @@
 ---
 
 ### 🛠 Стек технологий
-![Java] ![Selenide] ![JUnit 5] ![Maven]
+[Java] [Selenide] [JUnit 5] [Maven]
 
 ---
 
